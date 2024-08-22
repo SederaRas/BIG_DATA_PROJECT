@@ -3,7 +3,11 @@
 
 This project leverages **big data platforms** such as **Databricks** and **AWS** to perform **sentiment analysis** of tweets and extract insights.
 
-The tweets were extracted from the public S3 bucket of WeCloudData. Since they were not labeled, **TextBlob** was used to generate sentiment labels. The sentiment analysis was conducted using **PySpark** , and the results were exported to my personal S3 bucket. From there, **Amazon Athena** was used to run queries, and finally, a dashboard was created on **QuickSight** to gain insights from the analysis.
+The tweets were extracted from the public S3 bucket of WeCloudData. Since they were not labeled, **TextBlob** was used to generate sentiment labels. Then, the sentiment analysis was conducted using **PySpark** , and the results were exported to my personal S3 bucket. From there, **Amazon Athena** was used to run queries, and finally, a dashboard was created on **QuickSight** to gain insights from the analysis.
+
+The labeling and the machine learning processes can be viewed in the Jupyter notebook. A Databricks-compatible (DBC) version of the notebook is also available in this repository.
+
+The queries used on Amazon Athena are provided in a SQL file, and the QuickSight dashboard is saved as a PDF file.
 
 
 Skills/Tools: NLP, sentiment analysis, TextBlob, PySpark, AWS (EC2, S3, Amazon Athena, Quicksight), Machine Learning, Pipeline,
