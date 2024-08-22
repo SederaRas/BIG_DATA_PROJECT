@@ -7,3 +7,7 @@ The tweets were extracted from the public S3 bucket of WeCloudData. Since they w
 
 
 Skills/Tools: NLP, sentiment analysis, TextBlob, PySpark, AWS (EC2, S3, Amazon Athena, Quicksight), Machine Learning, Pipeline,
+
+
+https://github.com/SederaRas/WCD_BIG_DATA_PROJECT/blob/main/BigData_Project_Quicksight_Sedera/Waterfall_Retweets_Distribution.png?raw=true![image](https://github.com/user-attachments/assets/6d31aa19-0fb5-441e-8093-981cdaa02efd)
+
