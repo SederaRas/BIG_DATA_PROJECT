@@ -13,4 +13,7 @@ Skills/Tools: NLP, sentiment analysis, TextBlob, PySpark, AWS (EC2, S3, Amazon A
 
 <img width="707" alt="Sankey_Plot_Predicted_vs_Actual" src="https://github.com/user-attachments/assets/5bd3f2ba-2a91-4dda-b7d4-137671c6df48">
 
+<img width="779" alt="Wordcloud2" src="https://github.com/user-attachments/assets/b2c680bd-b42b-4cb8-a6a9-ca72e054e288">
+
+
 
